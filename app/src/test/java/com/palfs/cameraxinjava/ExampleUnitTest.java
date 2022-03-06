@@ -1,4 +1,4 @@
-package com.example.fyp;
+package com.palfs.cameraxinjava;
 
 import org.junit.Test;
 
